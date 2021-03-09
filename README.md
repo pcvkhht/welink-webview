@@ -12,4 +12,4 @@
 
 ### v1.0.0
 * 修改微信模块页面为X5内核的Webview
-* 首页网址默认读取路径/手机内部储存/Android/data/com.fgfavn.android.launcher/files/url/url的url文件作为首页地址
+* 首页网址默认读取路径/手机内部储存/Android/data/com.fgfavn.android.launcher/files/url/url的url文件内容作为首页地址（注意：文件内容只能有一行内容）
